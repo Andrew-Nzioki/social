@@ -1,0 +1,52 @@
+array(3) { 
+    ["documents"]=> array(5) 
+        { 
+            ["name"]=> array(3) { 
+                [0]=> string(13) "index (1).php" 
+                [1]=> string(9) "index.php" 
+                [2]=> string(26) "Application Functions.docx"
+                 }
+            ["type"]=> array(3) { 
+                [0]=> string(17) "application/x-php" 
+                [1]=> string(17) "application/x-php" 
+                [2]=> string(27) "application/wps-office.docx" 
+                } 
+            ["tmp_name"]=> array(3) { 
+                [0]=> string(25) "/opt/lampp/temp/phpCLE1T7" 
+                [1]=> string(25) "/opt/lampp/temp/phpL6vOm9" 
+                [2]=> string(25) "/opt/lampp/temp/phpHoRMV6" 
+                } 
+            ["error"]=> array(3) { 
+                [0]=> int(0) 
+                [1]=> int(0) 
+                [2]=> int(0) 
+                } 
+            ["size"]=> array(3) { 
+                [0]=> int(13025) 
+                [1]=> int(13025) 
+                [2]=> int(16084) } 
+        } 
+    ["images"]=> array(5) 
+        { 
+            ["name"]=> array(1) { 
+                [0]=> string(11) "The-Bod.jpg" 
+                } 
+            ["type"]=> array(1) { 
+                [0]=> string(10) "image/jpeg" 
+                } 
+            ["tmp_name"]=> array(1) { 
+                [0]=> string(25) "/opt/lampp/temp/phphHzJW5" 
+                } 
+            ["error"]=> array(1) { 
+                [0]=> int(0) 
+                } 
+            ["size"]=> array(1) { 
+                [0]=> int(55621) 
+                } 
+        } 
+    ["media"]=> array(5) { 
+        ["name"]=> array(1) { [0]=> string(0) "" } 
+        ["type"]=> array(1) { [0]=> string(0) "" } 
+        ["tmp_name"]=> array(1) { [0]=> string(0) "" } 
+        ["error"]=> array(1) { [0]=> int(4) } 
+        ["size"]=> array(1) { [0]=> int(0) } } }

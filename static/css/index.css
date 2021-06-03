@@ -1,0 +1,127 @@
+
+.navbar, #navigation{
+    text-transform: capitalize;
+}
+nav.navbar{
+    border-bottom: 1px gray solid;
+    color:white;
+}
+#navigation{
+    height: 91.25vh;
+    margin-bottom: 0vh;
+}
+#navigation ul li{
+    margin-top:1rem;
+    margin-left:0.25rem;
+}
+#navigation ul li:hover{
+    border-right:1px transparent solid;
+}
+
+.card{
+    height:91.25vh;
+}
+.card-header{
+    text-transform: capitalize;
+    text-align: center;
+}
+.card-header h3{
+    font-weight: bolder;
+}
+
+div#new {
+    border-bottom:1px gainsboro solid;
+    padding-bottom: 5px;
+}
+div#new .btn{
+    border-radius:20px;
+    text-transform: capitalize;
+}
+.modal-title{
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+#latest{
+    margin-top:2rem;
+    text-transform:capitalize;
+}
+
+#bucket-name::placeholder{
+    text-transform: capitalize;
+    color:rgb(33, 33, 33);
+}
+.form-group header{
+    margin-bottom:1rem;
+}
+.form-group header h6{
+    font-weight: bolder;
+}
+.form-group div{
+margin-bottom:0.5rem;
+}
+#upload_files{
+    margin-top: 1rem;;
+}
+#upload_files{
+    border-right:2px gainsboro solid;
+    padding-bottom:0.25rem;
+}
+
+#cancel,#submit{
+    border-top:1px gainsboro solid;
+    padding-top:1rem;
+}
+.navbar-bar.nav.nav-tabs{
+    background-color:transparent
+}
+.form-check{
+    text-align:center;
+}
+
+#buckets-table{
+    width:90%;
+    padding:1rem;
+    border-radius: 10px;
+    border:2px black solid;
+}
+#buckets-table .table-row th{
+
+    text-transform:capitalize;
+}
+#latest{
+    padding-bottom:0.5rem;
+}
+
+.table tr td, .table tr th{
+    border:2px black solid;
+    border-bottom:2px black solid;
+}
+.table tr td button{
+    margin-right:0.5rem;
+    margin-bottom :0.5rem;
+}
+label, .input-group-prepend{
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.btn{
+    text-transform:capitalize;
+}
+
+#document-list, #image-list, #media-list{
+    padding-top:5px;
+    border-top:2px #000 solid;
+    
+}
+#document-list h5, #image-list h5, #media-list h5{
+    color:black;
+
+    font-weight:bolder;
+}
+#upload-new{
+    padding-top:5px;
+    margin-bottom:10px;
+}
